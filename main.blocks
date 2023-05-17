@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="5:jyZkLr%zsTh%jYe3,K" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="hxuYL}bG.17xxhrzitp7"><value name="text"><shadow type="text" id="#sGbA^f^2@Q[VptsKZ#b"><field name="TEXT">3</field></shadow></value><next><block type="device_print_message" id="LbQMpX@e*,tr5mU{-R^J"><value name="text"><shadow type="text" id="LM6TiRhjCIYcvQko.Ajj"><field name="TEXT">2</field></shadow></value><next><block type="device_print_message" id="gI%Wd?2_nRPfni.)/tv["><value name="text"><shadow type="text" id="jV53.}aSM#_o$woaX}3Y"><field name="TEXT">1</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="K%_{vy=-qK;PY`ULtA%Z" x="205" y="0"></block><block type="device_gesture_event" id="GNne,0sAe6`r+[.b7m:7" x="192" y="129"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="?vkq()n!-Lz:cb?F~BAd"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # .
+        `</field></block></statement></block><block type="device_show_leds" id="CTsJ,8q~4CCHwSxH]Qbf" disabled="true" x="428" y="183"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . # . # .
+        `</field></block><block type="device_show_leds" id="JrA|WgSyhA`k7pzn7l/T" disabled="true" x="653" y="189"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        . . . . .
+        `</field></block><block type="device_show_leds" id="E4Mye$8L*v%6J1t=FZpe" disabled="true" x="948" y="185"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . #
+        `</field></block><block type="device_show_leds" id="leWwtF_h|!X60g#Bs1bo" disabled="true" x="727" y="418"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . . . . . 
+        . . . # . 
+        . . . . .
+        `</field></block><block type="device_show_leds" id="}`_le`:y8UrCf@_qIcoH" disabled="true" x="447" y="487"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></xml>
